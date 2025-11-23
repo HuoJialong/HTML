@@ -1,0 +1,20 @@
+p ,
+h1,
+h3 {
+    color: red;
+
+    font-size: larger;
+    border: 0chem solid black;
+}
+h1 {
+    color: green;
+}
+h2 {
+    color: plum;
+}
+p  {
+    color: blue;
+}
+html {
+    background-color: beige;
+}
